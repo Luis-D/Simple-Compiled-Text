@@ -1,0 +1,1 @@
+i686-w64-mingw32-gcc -s -m32 main.c -no-pie -o ToSCT.exe

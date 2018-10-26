@@ -1,0 +1,4 @@
+<This is an example./>
+<	This is another example but with a tab./>
+<Ahora este ejemplo está en español.
+Con un salto de linea y todo./>

@@ -1,0 +1,1 @@
+gcc -s -m32 main.c -no-pie -o ToSCT
